@@ -1,5 +1,7 @@
 # Ledger22
 
+**Live demo:** [posky.vercel.app](https://posky.vercel.app)
+
 GMP Annex 22 AI compliance dashboard for pharmaceutical manufacturers.
 
 Tracks AI systems embedded in factory equipment (vision inspection, predictive maintenance, robotics) against the EU's GMP Annex 22 regulation.
@@ -32,7 +34,7 @@ Output goes to `dist/`.
 
 ## Deploy to Vercel
 
-Push to GitHub, then import the repo in Vercel. The included `vercel.json` handles SPA routing rewrites automatically. No additional configuration needed.
+Deployed at [posky.vercel.app](https://posky.vercel.app). The included `vercel.json` handles SPA routing rewrites automatically. To redeploy, push to the `main` branch of [github.com/Patrick0shea/posky](https://github.com/Patrick0shea/posky).
 
 ## Pages
 
